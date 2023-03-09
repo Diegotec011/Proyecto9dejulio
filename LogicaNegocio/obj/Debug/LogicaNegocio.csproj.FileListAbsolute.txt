@@ -1,0 +1,12 @@
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\diego\Source\Repos\Club9dejulio011\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
